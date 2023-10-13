@@ -5,24 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Journal Articles**
+* Zhilin Zhao, Longbing Cao, and Kun-Yu. Lin, “Revealing the Distributional Vulnerability of Discriminators by Implicit Generators,” in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
+* Zhilin Zhao, Longbing Cao, and Kun-Yu. Lin,  “Supervision Adaptation Balancing In-Distribution Generalization and Out-of-Distribution Detection,” in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
+* Zhilin Zhao, Longbing Cao, and Kun-Yu. Lin,  “Out-of-Distribution Detection by Cross-Class Vicinity Distribution of In-Distribution Data,” in IEEE Trans. Neural Networks Learn. Syst., 2023.
+* Zhilin Zhao and Longbing Cao, “Dual Representation Learning for Out-of-Distribution Detection,” in Trans. Mach. Learn. Res., 2023.
 
-{% include base_path %}
+**Conference Proceedings**
+* Zhilin Zhao and Longbing Cao, “R-divergence for Estimating Model-oriented Distribution Discrepancy,” in NeurIPS, 2023.
+* Zhilin Zhao, Chang-Dong Wang, Kun-Yun Lin, and Jian-Huang Lai, “Missing Value Learning,” in CIKM, 2017.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
-Education
-======
-* B.S. in School of Data and Computer Science, Sun Yat-Sen University, 2016
-* M.S. in School of Data and Computer Science, Sun Yat-Sen University, 2018
-* Ph.D in School of Compute Science, University of Technology Sydney, 2022
 
-Work experience
-======
-* 2022-2023: Research Associate, School of Compute Science, University of Technology Sydney
-* 2023-current: Postdoctoral Research Fellow, School of Computing, Macquarie University
-* [Download paper here](http://Lawliet-zzl.github.io/files/2023_IJCAI Deep Non IID Learning.pdf)
