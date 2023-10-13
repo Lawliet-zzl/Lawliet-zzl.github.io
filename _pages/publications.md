@@ -25,3 +25,4 @@ Work experience
 ======
 * 2022-2023: Research Associate, School of Compute Science, University of Technology Sydney
 * 2023-current: Postdoctoral Research Fellow, School of Computing, Macquarie University
+* [Tutorial]
