@@ -5,12 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+**Tutorial**
+* Zhilin Zhao and Longbing Cao, “Deep Non-IID Learning,” in ĲCAI, 2023. [slides](http://Lawliet-zzl.github.io/files/2023_IJCAI Deep Non IID Learning.pdf)
+* Longbing Cao, Philip.S Yu, and Zhilin Zhao, “Shallow and Deep Non-IID Learning on Complex Data,” in KDD, 2022.
