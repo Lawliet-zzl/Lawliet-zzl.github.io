@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhilin Zhao/Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhilin Zhao"
 description              : &description "personal description"
