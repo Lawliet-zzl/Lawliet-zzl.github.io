@@ -18,6 +18,12 @@ author_profile: true
 **Conference Proceedings**
 * Zhilin Zhao and Longbing Cao, “R-divergence for Estimating Model-oriented Distribution Discrepancy,” in NeurIPS, 2023.
 * Zhilin Zhao, Chang-Dong Wang, Kun-Yun Lin, and Jian-Huang Lai, “Missing Value Learning,” in CIKM, 2017.
+* Zhilin Zhao, Ling Huang, Chang-Dong Wang, and Dong Huang, “Low-Rank and Sparse Cross-Domain Recommendation Algorithm,” in DASFAA, 2018.
+* Zhilin Zhao, Ling Huang, Chang-Dong Wang, Jian-Huang Lai, and Philip.S Yu, “Low-Rank and Sparse Matrix Completion for Recommendation,” in ICONIP, 2017.
+* Zhilin Zhao, Chang-Dong Wang, Yuan-Yu Wan, Jian-Huang Lai, and Dong Huang, “FTMF: Recommendation in social network with Feature Transfer and Probabilistic Matrix Factorization,” in ĲCNN, 2016.
+* Zhilin Zhao, Chang-Dong Wang, Yuan-Yu Wan, Zi-Wei Huang, and Jian-Huang Lai, “Pipeline Item-Based Collaborative Filtering Based on MapReduce,” in BDCloud, 2015.
+* Yang Yang, Zhilin Zhao, and Longbing Cao, “Deep spectral copula mechanisms modeling coupled and volatile multivariate time series,” in DSAA, 2023.
+* Kun-Yu Lin, Chang-Dong Wang, Yu-Qin Meng, and Zhilin Zhao, “Multi-view unit intact space learning,” in KSEM, 2017.
 
 
 
