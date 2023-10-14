@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=3e8zto0AAAAJ&hl=en"
-  email            :
+  email            : "Zhilin.Zhao@mq.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/Lawliet-zzl"
   google_plus      :
   keybase          :
   instagram        :
