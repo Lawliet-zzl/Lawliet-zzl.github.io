@@ -9,6 +9,7 @@ author_profile: true
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin, “Revealing the Distributional Vulnerability of Discriminators by Implicit Generators,” in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin,  “Supervision Adaptation Balancing In-Distribution Generalization and Out-of-Distribution Detection,” in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin,  “Out-of-Distribution Detection by Cross-Class Vicinity Distribution of In-Distribution Data,” in IEEE Trans. Neural Networks Learn. Syst., 2023.
+* Zhilin Zhao, Longbing Cao, and Chang-Dong Wang,  “Gray learning from non-iid data with out-of-distribution samples,” in IEEE Trans. Neural Networks Learn. Syst., 2023. 
 * Zhilin Zhao and Longbing Cao, “Dual Representation Learning for Out-of-Distribution Detection,” in Trans. Mach. Learn. Res., 2023.
 * Zhilin Zhao, Chang-Dong Wang, Yuan-Yu Wan, and Jian-Huang Lai, “Recommendation in feature space sphere,” in Electron. Commer. Res. Appl., 2017.
 * Zhilin Zhao, Chang-Dong Wang, and Jian-Huang Lai, “AUI&GIV: recommendation with asymmetric user influence and global importance value,” PloS one, 2016.
