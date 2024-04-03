@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at Data Science Lab, Macquaire University, led by [Prof. Longbing Cao](https://datasciences.org/cao/). I received the Ph.D. degree from the University of Technology Sydney in 2022, supervised by [Prof. Longbing Cao](https://datasciences.org/cao/) and [Prof. Philip S. Yu](https://www.cs.uic.edu/~psyu/). Prior to that, I received the B.S. and M.S. degrees from the School of Data and Computer Science, Sun Yat-Sen University, China, in 2016 and 2018, respectively, under the supervision of [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn).
+Zhilin Zhao is currently a Postdoctoral Fellow at Data Science Lab, Macquarie University, led by [Prof. Longbing Cao](https://datasciences.org/cao/). After earning his Ph.D. degree from the University of Technology Sydney (UTS) in 2022, where he was co-supervised by [Prof. Longbing Cao](https://datasciences.org/cao/) and [Prof. Philip S. Yu](https://www.cs.uic.edu/~psyu/), he served as a Postdoctoral Fellow at UTS for a year. Prior to his doctoral studies, he completed his B.S. and M.S. degrees at the School of Data and Computer Science, Sun Yat-Sen University (SYSU), China, under the supervision of [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn). He was honored with the Outstanding Undergraduate Student of SYSU Award in 2016 and the Outstanding Graduate Student of Canton Award in 2018.
 
 
 **Research**
