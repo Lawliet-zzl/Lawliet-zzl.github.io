@@ -22,5 +22,6 @@ My current research focuses on generalization analysis, out-of-distribution dete
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin,  “Out-of-Distribution Detection by Cross-Class Vicinity Distribution of In-Distribution Data,” in IEEE Trans. Neural Networks Learn. Syst., 2023. [[paper]](https://ieeexplore.ieee.org/document/10136820)
 * Zhilin Zhao, Longbing Cao, and Chang-Dong Wang,  “Gray learning from non-iid data with out-of-distribution samples,” in IEEE Trans. Neural Networks Learn. Syst., 2023. 
 * Zhilin Zhao and Longbing Cao, “Dual Representation Learning for Out-of-Distribution Detection,” in Trans. Mach. Learn. Res., 2023. [[paper]](https://openreview.net/forum?id=PHAr3q49h6)
+* Zhilin Zhao and Longbing Cao, “Weighting Non-IID Batches for Out-of-distribution Detection,” in Mach. Learn., 2024.
 
 
