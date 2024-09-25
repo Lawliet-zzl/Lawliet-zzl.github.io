@@ -16,6 +16,7 @@ Zhilin Zhao is currently a Postdoctoral Fellow at Data Science Lab, Macquarie Un
 My current research focuses on generalization analysis, out-of-distribution detection, and distribution discrepancy estimation.
 
 **Representative Publications**
+* Zhilin Zhao, Longbing Cao, Xuhui Fan, and Wei-Shi Zheng “Revealing Distribution Discrepancy by Sampling Transfer in Unlabeled Data”, in NeurIPS, 2024. 
 * Zhilin Zhao and Longbing Cao, “R-divergence for Estimating Model-oriented Distribution Discrepancy”, in NeurIPS, 2023. [[paper]](https://papers.nips.cc/paper_files/paper/2023/file/b157cfde6794e93b2353b9712bbd45a5-Paper-Conference.pdf)
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin, “Revealing the Distributional Vulnerability of Discriminators by Implicit Generators”, in IEEE Trans. Pattern Anal. Mach. Intell., 2023. [[paper]](https://ieeexplore.ieee.org/document/9987694/)
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin,  “Supervision Adaptation Balancing In-Distribution Generalization and Out-of-Distribution Detection”, in IEEE Trans. Pattern Anal. Mach. Intell., 2023. [[paper]](https://ieeexplore.ieee.org/document/10271740)
