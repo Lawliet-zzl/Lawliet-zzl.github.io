@@ -18,6 +18,7 @@ author_profile: true
 * Ling Huang, Zhilin Zhao, Chang-Dong Wang, Dong Huang, and Hong-Yang Chao, LSCD: low-rank and sparse cross-domain recommendation, Neurocomputing, 2019.
 
 **Conference Proceedings**
+* Zhilin Zhao, Longbing Cao, Xuhui Fan, and Wei-Shi Zheng, Revealing Distribution Discrepancy by Sampling Transfer in Unlabeled Data, in NeurIPS, 2024. 
 * Zhilin Zhao and Longbing Cao, R-divergence for Estimating Model-oriented Distribution Discrepancy, in NeurIPS, 2023.
 * Zhilin Zhao, Chang-Dong Wang, Kun-Yun Lin, and Jian-Huang Lai, Missing Value Learning, in CIKM, 2017.
 * Zhilin Zhao, Ling Huang, Chang-Dong Wang, and Dong Huang, Low-Rank and Sparse Cross-Domain Recommendation Algorithm, in DASFAA, 2018.
