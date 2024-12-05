@@ -2,7 +2,7 @@
 title: "Teaching experience 100"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/test
+permalink: /teaching/2015-spring-teaching-2
 venue: "dddd"
 date: 2015-01-01
 location: "City, Country"
