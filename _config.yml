@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhilin Zhao"
 title_separator          : "-"
-name                     : &name "Zhilin Zhao"
+name                     : &name "赵知临 (Zhilin Zhao)"
 description              : &description "personal description"
 url                      : https://Lawliet-zzl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
