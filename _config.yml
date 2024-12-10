@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhilin Zhao"
   avatar           : "ZZL.jpg"
-  bio              : "In the depth of winter, I finally learned that within me there lay an invincible summer."
+  bio              : "国家级高层次青年人才"
+#  bio              : "In the depth of winter, I finally learned that within me there lay an invincible summer."
   location         : "Sydney"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
