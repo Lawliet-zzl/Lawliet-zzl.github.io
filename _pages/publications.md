@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal Articles**
+* Zhilin Zhao, Longbing Cao, Philip S. Yu Out-of-Distribution Detection by Regaining Lost Clues, in Artif. Intell., 2024. 
 * Zhilin Zhao and Longbing Cao, Weighting Non-IID Batches for Out-of-distribution Detection, in Mach. Learn., 2024.
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin, Revealing the Distributional Vulnerability of Discriminators by Implicit Generators, in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
 * Zhilin Zhao, Longbing Cao, and Kun-Yu Lin,  Supervision Adaptation Balancing In-Distribution Generalization and Out-of-Distribution Detection, in IEEE Trans. Pattern Anal. Mach. Intell., 2023.
